@@ -5,8 +5,14 @@ container div{
 	background: purple;
     border-left-color: green;
     border-left-width: 5px;
-    padding:10px;
+   
+}
+div{
+	padding:10px;
 	font-size:20px;
+}
+
+#heading{
 	color:white;
 }
 
